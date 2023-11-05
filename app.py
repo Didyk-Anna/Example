@@ -9,7 +9,7 @@ from prophet.plot import add_changepoints_to_plot
 from prophet.plot import plot_yearly
 import base64
 
-st.title('Автоматизований прогноз числових показників')
+st.title(' числових показників')
 
 """
 ### Крок 1: Імпорт набору даних
